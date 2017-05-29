@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zgadnij liczbę</string>
+    <string name="witaj">Witaj w grze!</string>
+    <string name="opis">Została wylosowana liczba z zakresu 0,100. Twoim zadaniem jest jej odgadnięcie i wpisanie do pola"</string>
+    <string name="button">Sprawdź!</string>
+    <string name="toMuch">Za dużo!</string>
+    <string name="toLess">Za mało!</string>
+    <string name="empty"></string>
+    <string name="won">Wygrałeś!</string>
+    <string name="numberOfTries">Ilość prób</string>
+    <string name="submit">Zapisz</string>
+    <string name="pseudonim">Pseudonim</string>
+</resources>
